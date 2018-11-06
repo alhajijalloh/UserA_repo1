@@ -1,0 +1,5 @@
+Master Git in a day test file 1
+lab 2 -- another change
+more changes
+even more changes
+a change to simulate reset head 
